@@ -1,6 +1,6 @@
 # Project Title
 
-Gallery App built with React + Vite
+# React Gallery App
 
 ## Getting Started
 Utilizing React, this project creates a gallery that allows you to search for images.
