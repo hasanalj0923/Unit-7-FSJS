@@ -1,6 +1,6 @@
 # Project Title
 
-# React Gallery App
+React Gallery App
 
 ## Getting Started
 Utilizing React, this project creates a gallery that allows you to search for images.
