@@ -16,7 +16,7 @@ In the terminal, use `npm run dev` to initialize the app.
 - User can also directly change the `/search/term` path, and results will display accordingly.
 
 ### Installing
-This project uses a build tool and several libraries, so all dependencies will need to be installed locally. You will also need to create a `config.js` file and obtain a Flickr API key to use this app.
+This project uses a build tool and several libraries, so all dependencies will need to be installed locally. You will also need to create a `config.js` file and obtain a Pixabay API key to use this app.
 
 ## Deployment
 
